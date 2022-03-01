@@ -15,7 +15,7 @@ ctx.fillStyle = "white";
 ctx.fillRect(0, 0, canvas.offsetWidth, canvas.offsetHeight);
 ctx.strokeStyle = INITIAL_COLOR;
 ctx.fillStyle = INITIAL_COLOR;
-ctx.lineWidth = 2.5;
+ctx.lineWidth = 0.1;
 
 
 let painting = false;
